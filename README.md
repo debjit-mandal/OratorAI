@@ -1,6 +1,9 @@
 
 # OratorAI
 
+
+![image](https://github.com/user-attachments/assets/5a75b890-ae42-4379-ab56-19040ca2589e)
+
 OratorAI is an advanced voice assistant application that integrates cutting-edge speech-to-text and text-to-speech technologies with a powerful conversational AI model. Utilizing Whisper for accurate speech recognition and Piper for natural text-to-speech synthesis, OratorAI offers dynamic voice options and seamless interaction. The application is ideal for real-time voice interaction scenarios, providing users with a customizable and intelligent conversational experience.
 
 ## Features
