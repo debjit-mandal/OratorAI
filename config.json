@@ -1,0 +1,7 @@
+{
+    "male_model_path": "piper_models/male/en_US-hfc_male-medium.onnx",
+    "female_model_path": "piper_models/female/en_US-hfc_female-medium.onnx",
+    "sample_rate": 22050,
+    "channels": 1,
+    "sample_width": 2
+}
